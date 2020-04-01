@@ -24,4 +24,4 @@ with open("boost.txt", "r") as bsts:
 Commands.bal = bal
 Commands.boost = boost
 
-bot.run("Njk0NjI4NDUxOTQ4MTY3Mjk4.XoOZUQ.jxcsdei2uMhp3T47lhBrxmDHnzY")
+bot.run("TOKEN")
